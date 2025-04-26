@@ -2,7 +2,7 @@
 
 ![encryption animation](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
-🚀 **Live Demo:** [Launch App](https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--d4eba4a9.local-credentialless.webcontainer-api.io/)  
+🚀 **Live Demo:** [Launch App](https://fanciful-hummingbird-6e1e15.netlify.app/)  
 ✍️ **Created By:** Yasmeen Arifa S  
 
 ---
